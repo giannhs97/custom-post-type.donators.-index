@@ -8,4 +8,5 @@ Greek Version: Αυτό είναι ένα template που εμφανίζεται
 αναζήτηση εμφανίζονται σωστά.
 
 PS: The above codes are used and working in a website using Wordpress CMS.
+
 Υ.Γ.: Οι παραπάνω κώδικες χρησιμοποιούνται σε ιστοχώρο που χρησιμοποιεί Wordpress CMS.
